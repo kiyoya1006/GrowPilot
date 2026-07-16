@@ -10,9 +10,6 @@
 </p>
 # 🚀 GrowPilot AI Japan
 
-> **Grow Together. Fly Further.**
-> **［共に成長し、さらに遠くへ。］**
-
 ## GrowPilotとは
 
 GrowPilot AI Japanは、中小企業・個人事業主向けに
