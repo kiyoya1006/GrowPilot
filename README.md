@@ -7,8 +7,7 @@
 ［共に成長し、さらに遠くへ。］
 </p>
 
-</p>
-# 🚀 GrowPilot AI Japan
+
 
 ## GrowPilotとは
 
