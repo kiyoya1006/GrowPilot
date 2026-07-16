@@ -32,26 +32,35 @@ GrowPilot AI Japanは、中小企業・個人事業主向けに
 
 # サービス
 
-## 🩺 Pilot Check
+## 🛠️ サービス
+
+🩺 **Pilot Check**  
 無料診断
-
-## 📊 Pilot Insight
-詳細診断
-
-## 🗺 Pilot Roadmap
-改善計画
-
-## 🤝 Pilot Support
-伴走支援
-
-## 📈 Pilot Report
-月次レポート
-
-## 🌱 Pilot Review
-成長レビュー
 
 ---
 
+📊 **Pilot Insight**  
+詳細診断
+
+---
+
+🗺️ **Pilot Roadmap**  
+改善計画
+
+---
+
+🤝 **Pilot Support**  
+伴走支援
+
+---
+
+📈 **Pilot Report**  
+月次レポート
+
+---
+
+🌱 **Pilot Review**  
+成長レビュー
 # ブランド理念
 
 > 人と人をつなぎ、
