@@ -1,11 +1,12 @@
+<p align="center">
+  <img src="growpilot-logo.png" width="５００">
 <h1 align="center">🚀 GrowPilot AI Japan</h1>
 
 <p align="center">
 <b>Grow Together. Fly Further.</b><br>
 ［共に成長し、さらに遠くへ。］
 </p>
-<p align="center">
-  <img src="growpilot-logo.png" width="５００">
+
 </p>
 # 🚀 GrowPilot AI Japan
 
