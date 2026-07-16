@@ -4,7 +4,7 @@
 
 <p align="center">
 <b>Grow Together. Fly Further.</b><br>
-［共に成長し、さらに遠くへ。］
+＊＊［共に成長し、さらに遠くへ。］＊＊
 </p>
 
 
