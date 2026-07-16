@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="growpilot-logo.png" width="400">
-</p>
-
 <h1 align="center">🚀 GrowPilot AI Japan</h1>
 
 <p align="center">
