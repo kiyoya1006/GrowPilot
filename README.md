@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="growpilot-logo.png" width="420">
+  <img src="growpilot-logo.png" width="490">
 </p>
 
 <h1 align="center">🚀 GrowPilot AI Japan</h1>
@@ -36,31 +36,20 @@ GrowPilot AI Japanは、中小企業・個人事業主向けに
 ### 🩺 Pilot Check
 無料診断
 
----
-
 ### 📊 Pilot Insight
 詳細診断
-
----
 
 ### 🗺️ Pilot Roadmap
 改善計画
 
----
-
 ### 🤝 Pilot Support
 伴走支援
-
----
 
 ### 📈 Pilot Report
 月次レポート
 
----
-
 ### 🌱 Pilot Review
 成長レビュー
-
 ---
 
 # 🤖 AI評議会
