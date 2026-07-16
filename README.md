@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="growpilot-logo.png" width="250">
+</p>
 # 🚀 GrowPilot AI Japan
 
 > **Grow Together. Fly Further.**
